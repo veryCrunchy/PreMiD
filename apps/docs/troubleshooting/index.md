@@ -43,7 +43,7 @@ const members = [
 
 ### Conflicting Extensions
 
-*The following extensions have been knnown to interfere with PreMiD functioning properly. Please disable them if you notice any issues.*
+*The following extensions have been known to interfere with PreMiD functioning properly. Please disable them if you notice any issues.*
 
  - **Plasma**: *Will show activity in Extension, will not show activity in Discord.*
 
